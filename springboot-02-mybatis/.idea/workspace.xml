@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="998681bc-7a23-44ae-943f-e350e3d80100" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/qian/yue/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/qian/yue/Springboot02MybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qian/yue/Springboot02MybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/qian/yue/Springboot02MybatisApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/qian/yue/Springboot02MybatisApplication.class" afterDir="false" />
-    </list>
+    <list default="true" id="998681bc-7a23-44ae-943f-e350e3d80100" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +66,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -134,6 +127,7 @@
       <workItem from="1597306471955" duration="7270000" />
       <workItem from="1597321019986" duration="2688000" />
       <workItem from="1597325401395" duration="1837000" />
+      <workItem from="1597503799135" duration="22000" />
     </task>
     <servers />
   </component>
@@ -164,10 +158,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1597154258580" />
-    <state x="207" y="245" width="438" height="467" key="FileChooserDialogImpl" timestamp="1597323717408">
+    <state x="207" y="245" width="438" height="467" key="FileChooserDialogImpl" timestamp="1597503828635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="207" y="245" width="438" height="467" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597323717408" />
+    <state x="207" y="245" width="438" height="467" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597503828635" />
     <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1597330097483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
